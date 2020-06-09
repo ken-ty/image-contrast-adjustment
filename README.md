@@ -1,5 +1,5 @@
 # image-contrast-adjustment
-SIDBAのLenna画像に対して、ヒストグラム均等化を用いてコントラストを改善した。
+[SIDBA](http://www.ess.ic.kanagawa-it.ac.jp/app_images_j.html)のLenna画像に対して、ヒストグラム均等化を用いてコントラストを改善した。
 
 original  
 ![original image](https://github.com/kentokura/image-contrast-adjustment/blob/master/images/Lenna.bmp)
